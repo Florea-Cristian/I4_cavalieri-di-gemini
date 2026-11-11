@@ -1,6 +1,6 @@
 # I4_cavalieri-di-gemini
 Gemini usa noi
-collaboratore a=bevande
-collaboratore b=antipasti
-collaboratore c=dolci
-collaboratore d=pissa
+collaboratore a(florea)=bevande
+collaboratore b(petrelli)=antipasti
+collaboratore c(marin)=dolci
+collaboratore d(mancini)=pissa
